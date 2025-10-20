@@ -39,7 +39,7 @@
 </div>
 <div class="card section">
 <h4 style="margin: 0 0 8px 0;">Contacto</h4>
-<div id="contacto" class="contact"><a href="mailto:{{TU_EMAIL}}"> <!-- icono email simple --> {{cristobal10cisco@gmail.com}} </a> <a href="https://github.com/{{GITHUB_USERNAME}}" target="_blank" rel="noopener"> github.com/{{Cguedia}} </a> <a href="{{LINKEDIN}}" target="_blank" rel="noopener"></a></div>
+<div id="contacto" class="contact"><a href="mailto:cristobal10cisco@gmail.com">{{cristobal10cisco@gmail.com}} </a> <a href="https://github.com/{{GITHUB_USERNAME}}" target="_blank" rel="noopener"> github.com/{{Cguedia}} </a> <a href="{{LINKEDIN}}" target="_blank" rel="noopener"></a></div>
 </div>
 </aside>
 </div>
