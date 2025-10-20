@@ -2,7 +2,7 @@
 
 <div class="wrap"><!-- HEADER --><header>
 <div class="brand">
-<div class="logo" aria-hidden="true">{{IN}}</div>
+<div class="logo" aria-hidden="true"></div>
 <div>
 <h1>{{Cristobal Guerrero}}</h1>
 <p>Estudiante de Desarrollo Web &bull; Frontend</p>
