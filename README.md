@@ -19,11 +19,13 @@
 <h2 class="intro">Hola &mdash; soy <strong>Cristobal Guerrero</strong></h2>
 <p class="tagline">Soy estudiante de <strong>Desarrollo Web</strong>.
   Me encanta crear interfaces limpias, accesibles y optimizadas. Aqu&iacute; ver&aacute;s mis proyectos, tecnolog&iacute;as que manejo y c&oacute;mo contactarme.</p>
-<div class="hero-actions"><br>
+<div class="hero-actions">
   <a class="btn btn-primary" href="https://github.com/Cguedia" target="_blank" rel="noopener">Mi GitHub</a> 
   <a class="btn btn-ghost" href="#contacto">Contactar</a></div>
 </div>
-<div class="avatar" aria-hidden="true"><!-- Sustituye por tu foto real si quieres: <img src="ruta-a-tu-foto.jpg" alt="Tu Nombre"> --> <img src="{{URL_DE_TU_IMAGEN_OPCIONAL}}" alt="{{Tu Nombre}}" /></div>
+
+  
+<div class="avatar" aria-hidden="true"><!-- Sustituye por tu foto real si quieres: <img src="ruta-a-tu-foto.jpg" alt="Tu Nombre"> --> <img src="{{URL_DE_TU_IMAGEN_OPCIONAL}}" alt="{{Cristobal}}" /></div>
 </div>
 </section>
 <section id="experiencia" class="card" style="margin-top: 16px;">
