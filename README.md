@@ -1,5 +1,4 @@
-<p>&lt;!doctype html&gt;</p>
-<!-- Fuente -->
+
 <p></p>
 <div class="wrap"><!-- HEADER --><header>
 <div class="brand">
