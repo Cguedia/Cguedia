@@ -13,7 +13,7 @@
 <section class="card">
 <div class="hero">
 <div class="hero-left">
-<h2 class="intro">Hola &mdash; soy <strong>{{Tu Nombre}}</strong></h2>
+<h2 class="intro">Hola &mdash; soy <strong>Cristobal Guerrero}</strong></h2>
 <p class="tagline">Soy estudiante de <strong>Desarrollo Web</strong>. Me encanta crear interfaces limpias, accesibles y optimizadas. Aqu&iacute; ver&aacute;s mis proyectos, tecnolog&iacute;as que manejo y c&oacute;mo contactarme.</p>
 <div class="hero-actions"><a class="btn btn-primary" href="https://github.com/{{GITHUB_USERNAME}}" target="_blank" rel="noopener">Mi GitHub</a> <a class="btn btn-ghost" href="#contacto">Contactar</a></div>
 </div>
