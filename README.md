@@ -9,7 +9,8 @@
 </div>
 </div>
 <nav><a href="#proyectos">Proyectos</a> 
-  <a href="#skills">Habilidades</a> <a class="cta" href="https://github.com/Cguedia" target="_blank" rel="noopener">Ver GitHub</a>
+  <a href="#skills">Habilidades</a> 
+  <a class="cta" href="https://github.com/Cguedia" target="_blank" rel="noopener">Ver GitHub</a>
 </nav></header>
 <div class="grid"><!-- MAIN -->
 <section class="card">
