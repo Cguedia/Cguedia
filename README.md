@@ -8,7 +8,7 @@
 <p>Estudiante de Desarrollo Web ;</p>
 </div>
 </div>
-<nav><a href="#proyectos">Proyectos</a> <a href="#skills">Habilidades</a> <a class="cta" href="https://github.com/{{GITHUB_USERNAME}}" target="_blank" rel="noopener">Ver GitHub</a></nav></header>
+<nav><a href="#proyectos">Proyectos</a> <a href="#skills">Habilidades</a> <a class="cta" href="https://github.com/Cguedia" target="_blank" rel="noopener">Ver GitHub</a></nav></header>
 <div class="grid"><!-- MAIN -->
 <section class="card">
 <div class="hero">
@@ -22,7 +22,7 @@
 </section>
 <section id="experiencia" class="card" style="margin-top: 16px;">
 <h3 style="margin: 0 0 8px 0;">Sobre m&iacute;</h3>
-<p style="margin: 0; color: var(--muted);">Soy estudiante de 1ºDAW en IES Zaidín Vergeles Granada. Me interesa: accesibilidad web, optimizaci&oacute;n de rendimiento y buenas pr&aacute;cticas de frontend.</p>
+<p style="margin: 0; color: var(--muted);">Soy estudiante de 1ºDAW en IES Zaidín Vergeles Granada. Me interesa: la prgramación en distintos lenguajes y el desarrollo web</p>
 </section>
 <!-- SIDEBAR -->
 <aside class="sidebar">
@@ -40,7 +40,7 @@
 <div class="card section">
 <h4 style="margin: 0 0 8px 0;">Contacto</h4>
 <div id="contacto" class="contact"><a href="mailto:cristobal10cisco@gmail.com">{{cristobal10cisco@gmail.com}} </a>     
-<a href="https://github.com/{{GITHUB_USERNAME}}" target="_blank" rel="noopener"> github.com//Cguedia </a> 
+<a href="https://github.com/{{GITHUB_USERNAME}}" target="_blank" rel="noopener"> github.com/Cguedia </a> 
 </div>
 </aside>
 </div>
