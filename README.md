@@ -5,7 +5,7 @@
 <div class="logo" aria-hidden="true"></div>
 <div>
 <h1>{{Cristobal Guerrero}}</h1>
-<p>Estudiante de Desarrollo Web &bull;</p>
+<p>Estudiante de Desarrollo Web ;</p>
 </div>
 </div>
 <nav><a href="#proyectos">Proyectos</a> <a href="#skills">Habilidades</a> <a class="cta" href="https://github.com/{{GITHUB_USERNAME}}" target="_blank" rel="noopener">Ver GitHub</a></nav></header>
