@@ -4,7 +4,7 @@
 <div class="brand">
 <div class="logo" aria-hidden="true"></div>
 <div>
-<h1>{{Cristobal Guerrero}}</h1>
+<h1><stromg>{{Cristobal Guerrero}}</stromg></h1>
 <p>Estudiante de Desarrollo Web ;</p>
 </div>
 </div>
