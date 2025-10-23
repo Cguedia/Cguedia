@@ -8,9 +8,9 @@
 <p>Estudiante de Desarrollo Web ;</p>
 </div>
 </div>
-<nav><a href="#proyectos">Proyectos</a> 
+<P><nav><a href="#proyectos">Proyectos</a></P> 
  <P> <a href="#skills">Habilidades</a> </P>
-  <P><a class="cta" href="https://github.com/Cguedia" target="_blank" rel="noopener">Ver GitHub</a></P>
+ <P><a class="cta" href="https://github.com/Cguedia" target="_blank" rel="noopener">Ver GitHub</a></P>
 </nav></header>
 <div class="grid"><!-- MAIN -->
 <section class="card">
