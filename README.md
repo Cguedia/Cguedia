@@ -43,8 +43,8 @@
 <div class="skill">Git</div>
 </div>
 <div class="card section">
-<h4 style="margin: 0 0 8px 0;">Contacto</h4>
-<div id="contacto" class="contact"><a href="mailto:cristobal10cisco@gmail.com">{{cristobal10cisco@gmail.com}} </a>
+<h4 style="margin: 0 0 8 0;"><strong></strong>Contacto</h4></strong>
+<div id="contacto" class="contact"><a href="mailto:cristobal10cisco@gmail.com">cristobal10cisco@gmail.com </a>
   
 <a href="https://github.com/Cguedia" target="_blank" rel="noopener"> github.com/Cguedia </a> 
 </div>
