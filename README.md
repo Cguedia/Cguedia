@@ -26,10 +26,10 @@
 <div class="avatar" aria-hidden="true"><!-- Sustituye por tu foto real si quieres: <img src="ruta-a-tu-foto.jpg" alt="Tu Nombre"> --> <img src="{{URL_DE_TU_IMAGEN_OPCIONAL}}" alt="{{Cristobal}}" /></div>
 </div>
 </section>
-<section id="experiencia" class="card" style="margin-top: 16px;">
-<h3 style="margin: 0 0 8px 0;">Sobre m&iacute;</h3>
-<p style="margin: 0; color: var(--muted);">Soy estudiante de 1ºDAW en IES Zaidín Vergeles Granada. Me interesa: la prgramación en distintos lenguajes y el desarrollo web</p>
-</section>
+ <section class="max-w-3xl mx-auto px-4 mt-12">
+    <h3 class="text-xl font-semibold mb-4 text-center">Proyectos</h3>
+    <p class="text-center text-gray-600">Próximamente compartiré mis proyectos aquí 🚀</p>
+  </section>
 <!-- SIDEBAR -->
 <aside class="sidebar">
 <div class="card section">
