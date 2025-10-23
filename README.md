@@ -13,17 +13,15 @@
  <P><a class="cta" href="https://github.com/Cguedia" target="_blank" rel="noopener">Ver GitHub</a></P>
 </nav></header>
 <div class="grid"><!-- MAIN -->
-<section class="card">
-<div class="hero">
-<div class="hero-left">
-<h2 class="intro">Hola &mdash; soy <strong>Cristobal Guerrero</strong></h2>
-<p class="tagline">Soy estudiante de <strong>Desarrollo Web</strong>.
-  Me encanta crear interfaces limpias, accesibles y optimizadas. Aqu&iacute; ver&aacute;s mis proyectos, tecnolog&iacute;as que manejo y c&oacute;mo contactarme.</p>
-<div class="hero-actions">
-  <a class="btn btn-primary" href="https://github.com/Cguedia" target="_blank" rel="noopener">Mi GitHub</a> 
-  <a class="btn btn-ghost" href="#contacto">Contactar</a></div>
-</div>
-
+ <section class="max-w-3xl mx-auto px-4 text-center">
+    <h2 class="text-2xl font-semibold mb-4">Hola 👋 — soy Cristóbal Guerrero</h2>
+    <p class="text-gray-700 leading-relaxed">
+      Soy estudiante de <strong>1º DAW en el IES Zaidín Vergeles (Granada)</strong>.  
+      Me apasiona la <strong>programación</strong> en distintos lenguajes y el
+      <strong>desarrollo web</strong>.  
+      Me encanta crear interfaces limpias, accesibles y optimizadas.
+    </p>
+  </section>
   
 <div class="avatar" aria-hidden="true"><!-- Sustituye por tu foto real si quieres: <img src="ruta-a-tu-foto.jpg" alt="Tu Nombre"> --> <img src="{{URL_DE_TU_IMAGEN_OPCIONAL}}" alt="{{Cristobal}}" /></div>
 </div>
