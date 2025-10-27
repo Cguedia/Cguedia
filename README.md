@@ -1,6 +1,4 @@
-
-
-<div class="wrap"><!-- HEADER --><header>
+<div class="wrap"><header>
 <div class="brand">
 <div class="logo" aria-hidden="true"></div>
 <div>
