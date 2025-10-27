@@ -5,7 +5,7 @@
 <div class="logo" aria-hidden="true"></div>
 <div>
 <h1><stromg>{{Cristobal Guerrero}}</stromg></h1>
-<p>Estudiante de Desarrollo Web ;</p>
+<p>Estudiante de CFGS Desarrollo Web ;</p>
 </div>
 </div>
 <P><nav><a href="#proyectos">Proyectos</a></P> 
