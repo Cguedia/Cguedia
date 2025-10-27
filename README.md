@@ -23,7 +23,12 @@
     </p>
   </section>
   
-<div class="avatar" aria-hidden="true"><!-- Sustituye por tu foto real si quieres: <img src="ruta-a-tu-foto.jpg" alt="Tu Nombre"> --> <img src=https://concepto.de/wp-content/uploads/2020/08/Programacion-informatica-scaled-e1724960033513.jpg)" alt="{{Cristobal}}" /></div>
+<div class="avatar" aria-hidden="true">
+  <img 
+    src="https://concepto.de/wp-content/uploads/2020/08/Programacion-informatica-scaled-e1724960033513.jpg" 
+    alt="Cristobal" 
+    style="width: 80px; height: 80px; border-radius: 50%;" 
+  />
 </div>
 </section>
  <section class="max-w-3xl mx-auto px-4 mt-12">
