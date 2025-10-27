@@ -14,7 +14,7 @@
 </nav></header>
 <div class="grid"><!-- MAIN -->
  <section class="max-w-3xl mx-auto px-4 text-center">
-    <h2 class="text-2xl font-semibold mb-4">Hola 👋 — soy Cristóbal Guerrero</h2>
+    <h2 class="text-2xl font-semibold mb-4">Hola 👋 — Soy Cristóbal Guerrero</h2>
     <p class="text-gray-700 leading-relaxed">
       Soy estudiante de <strong>1º DAW en el IES Zaidín Vergeles (Granada)</strong>.  
       Me apasiona la <strong>programación</strong> en distintos lenguajes y el
