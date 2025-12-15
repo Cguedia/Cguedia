@@ -54,9 +54,9 @@
 
 <div align="right">
 
-[![Email](https://img.shields.io/badge/Email-tuemail@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristobal10cisco@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-TuNombre-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/CristobalGuerrero)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Web-black?style=for-the-badge&logo=vercel)]([https://tuweb.com](https://github.com/Cguedia/Cguedia_CV))
+[![Email](https://img.shields.io/badge/Email-cristobal10cisco@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristobal10cisco@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristobal-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/CristobalGuerrero)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Web-black?style=for-the-badge&logo=vercel)]((https://github.com/Cguedia/Cguedia_CV))
 
 </div>
 
