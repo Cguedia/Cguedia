@@ -50,7 +50,19 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 </div>
 <div class="card section">
-<h4 style="margin: 0 0 8 0;"><strong></strong>Contacto</h4></strong>
+<h4 style="margin: 0 0 8 0;"><strong></strong>📫 Contacto</h4></strong>
+
+<div align="right">
+
+[![Email](https://img.shields.io/badge/Email-tuemail@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristobal10cisco@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TuNombre-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/CristobalGuerrero)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Web-black?style=for-the-badge&logo=vercel)]([https://tuweb.com](https://github.com/Cguedia/Cguedia_CV))
+
+</div>
+
+
+
+</div>
 <div id="contacto" class="contact"><a href="mailto:cristobal10cisco@gmail.com">cristobal10cisco@gmail.com </a>
   
 <a href="https://github.com/Cguedia" target="_blank" rel="noopener"> github.com/Cguedia </a> 
