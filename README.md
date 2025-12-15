@@ -103,7 +103,7 @@
 </a><br/>
 
 <a href="https://linkedin.com/in/CristobalGuerrero" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Cristobal_Guerrero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-cristóbal guerrero díaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a><br/>
 
 <a href="https://github.com/Cguedia/Cguedia_CV" target="_blank">
