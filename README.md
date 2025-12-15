@@ -55,7 +55,7 @@
   
 <a href="https://github.com/Cguedia" target="_blank" rel="noopener"> github.com/Cguedia </a> 
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+![Visitas](https://komarev.com/ghpvc/?username=Cguedia&color=blue)
 </div>
 </aside>
 </div>
