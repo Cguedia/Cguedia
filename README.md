@@ -6,10 +6,31 @@
 <p>Estudiante de CFGS Desarrollo Web ;</p>
 </div>
 </div>
-<P><nav><a href="#proyectos">Proyectos</a></P> 
- <P> <a href="#skills">Habilidades</a> </P>
- <P><a class="cta" href="https://github.com/Cguedia" target="_blank" rel="noopener">Ver GitHub</a></P>
-</nav></header>
+<header>
+  <nav align="center">
+    <a href="#proyectos" 
+       style="text-decoration:none; font-weight:600; color:#2563eb; margin:0 1rem;">
+      🚀 Proyectos
+    </a>
+
+<br>
+
+<br>
+   <a href="#skills" 
+       style="text-decoration:none; font-weight:600; color:#2563eb; margin:0 1rem;">
+      🛠️ Habilidades
+    </a>
+
+<br>
+<br>
+   <a href="https://github.com/Cguedia" target="_blank" rel="noopener"
+       style="text-decoration:none; font-weight:600; background-color:#2563eb; color:white; padding:0.4rem 0.8rem; border-radius:8px; margin:0 1rem;">
+      💻 Ver GitHub
+    </a>
+  </nav>
+</header>
+
+
 <div class="grid"><!-- MAIN -->
  <section class="max-w-3xl mx-auto px-4 text-center">
     <h2 class="text-2xl font-semibold mb-4">Hola 👋 — Soy Cristóbal Guerrero</h2>
