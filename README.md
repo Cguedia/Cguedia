@@ -52,14 +52,21 @@
 <div class="card section">
 <h4 style="margin: 0 0 8 0;"><strong></strong>📫 Contacto</h4></strong>
 
-<div align="right">
+<div align="left">
 
-[![Email](https://img.shields.io/badge/Email-cristobal10cisco@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristobal10cisco@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristobal-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/CristobalGuerrero)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Web-black?style=for-the-badge&logo=vercel)]((https://github.com/Cguedia/Cguedia_CV))
+<a href="mailto:cristobal10cisco@gmail.com">
+  <img src="https://img.shields.io/badge/Email-cristobal10cisco@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a><br/>
+
+<a href="https://linkedin.com/in/CristobalGuerrero" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Cristobal_Guerrero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a><br/>
+
+<a href="https://github.com/Cguedia/Cguedia_CV" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
-
 
 
 </div>
