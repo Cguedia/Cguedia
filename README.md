@@ -89,10 +89,12 @@
   <img src="https://img.shields.io/badge/Portfolio-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+</div>
 
+<br>
 
 ![Visitas](https://komarev.com/ghpvc/?username=Cguedia&color=blue)
-</div>
+
 </aside>
 </div>
 </div>
