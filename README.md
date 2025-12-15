@@ -30,10 +30,33 @@
 </div>
 </section>
  <section class="max-w-3xl mx-auto px-4 mt-12">
-    <h3 class="text-xl font-semibold mb-4 text-center">Proyectos</h3>
-    <p class="text-center text-gray-600">Próximamente compartiré mis proyectos aquí 🚀</p>
-  </section>
-<!-- SIDEBAR -->
+    
+   <section id="proyectos">
+  <h3>🚀 Proyectos</h3>
+
+  <ul>
+    <li>
+      <strong>Portfolio Personal</strong> –
+      <a href="https://github.com/Cguedia/Cguedia_CV" target="_blank" rel="noopener">
+        GitHub
+      </a>
+    </li>
+
+   <li>
+      <strong>Proyecto Java Netbeans </strong> –
+      <a href="https://github.com/Cguedia/PracticasJava1_Netbeans" target="_blank" rel="noopener">
+        GitHub
+      </a>
+    </li>
+
+   <li>
+      <strong>Proyecto Java Eclipse</strong> –
+      <a href="https://github.com/Cguedia/PracticasJava1_Eclipse" target="_blank" rel="noopener">
+        GitHub
+      </a>
+    </li>
+  </ul>
+</section>
 <aside class="sidebar">
 <div class="card section">
 <h4 style="margin: 0 0 8px 0;">Habilidades</h4>
@@ -66,13 +89,7 @@
   <img src="https://img.shields.io/badge/Portfolio-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
 
-
-</div>
-<div id="contacto" class="contact"><a href="mailto:cristobal10cisco@gmail.com">cristobal10cisco@gmail.com </a>
-  
-<a href="https://github.com/Cguedia" target="_blank" rel="noopener"> github.com/Cguedia </a> 
 
 ![Visitas](https://komarev.com/ghpvc/?username=Cguedia&color=blue)
 </div>
